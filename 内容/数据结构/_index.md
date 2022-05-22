@@ -1,8 +1,8 @@
 ---
-# Title, summary, and page position.
+# Title, summary, and page positi
 title: 数据结构
-linktitle: 数据结构
-summary: Notes on Python data structures.
+linktitle: Homologica l
+summary: No
 weight: 2
 icon: python
 icon_pack: fab
